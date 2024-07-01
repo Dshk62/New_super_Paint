@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/exit.png</file>
+        <file>icons/file.svg</file>
+        <file>icons/folder.svg</file>
+        <file>icons/save.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/curved_line.png</file>
+        <file>icons/line.png</file>
+        <file>icons/square.png</file>
+        <file>icons/brush.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/brush-colored.png</file>
+        <file>icons/ink.png</file>
+        <file>icons/palette.png</file>
+        <file>icons/quil-pen.png</file>
+        <file>icons/wavy-line.png</file>
+    </qresource>
+</RCC>
